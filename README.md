@@ -3,7 +3,7 @@
 # Práctica 2: Caos en sistemas biológicos
 
 ## Información de la estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Brianna Vanessa Lopez Pardo \[22212261]; L22212261@tijuana.tecn.mx
 
 Gemelos Digitales
 
