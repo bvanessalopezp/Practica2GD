@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?project=https://github.com/bvanessalopezp/Practica2GD)
+i[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?project=https://github.com/bvanessalopezp/Practica2GD)
 
 # Práctica 2: Caos en sistemas biológicos
 
@@ -35,10 +35,9 @@ Palabras clave: Caos; Conjuntos Compactos Invariantes; Condiciones de Estabilida
 
 ## Actividades a realizar
 1. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
-2. 
-3.
-4.
-...
+2. Realizar el el cálculo simbólico de los puntos de equilibrio del modelo, definiendo las variables de estado y parámetros de forma simbólica, planteando el sistema de EDOs igualado a cero y resolviéndolo con solve para obtener los seis puntos de equilibrio, los cuales se imprimen en pantalla. Seguido a esto, se obtiene la Matriz Jacobiana del sistema de forma analítica mediante la función jacobian.
+3. Comparar métodos numéricos para cinco escenarios dinámicos distintos, cada uno caracterizado por un valor diferente del parámetro de bifurcación a₁₂: un atractor caótico, una órbita periódica, un ciclo límite interno, un ciclo límite externo y un punto de equilibrio. Para cada escenario se cargan los parámetros y condiciones iniciales correspondientes, y se resuelve el sistema con tres métodos de diferencias finitas: Euler, Heun y Runge-Kutta de cuarto orden. 
+4. Aplicar el tratamiento de inmunoterapia sobre cada uno de los cinco escenarios dinámicos, analizando cómo la intervención modifica el comportamiento del sistema en cada caso.
 
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
